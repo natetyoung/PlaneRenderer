@@ -5,3 +5,6 @@ I thought it would preserve time efficiency while making the shape appear more c
 Turns out, it doesn't really work. It worked for some objects, but not for all, and since this version is after I tried haphazardly to fix some particularly intractable problems, it is well and truly broken.
 
 Nice while it lasted though, and taught me a lot about rendering.
+
+
+All credit for multithreading goes to the aptly named <a href="https://github.com/dmhacker">David Hacker</a>
